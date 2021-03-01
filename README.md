@@ -1,2 +1,2 @@
-# Afonso.K.github.io
+# Afonso-K.github.io
 Hello
